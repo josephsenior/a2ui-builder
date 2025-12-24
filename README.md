@@ -169,6 +169,7 @@ We welcome contributions! Please see [CONTRIBUTING.md](./CONTRIBUTING.md) for gu
 ## Architecture
 
 For detailed information about the architecture, data flow, and component system, see [ARCHITECTURE.md](./ARCHITECTURE.md).
+<img width="1536" height="1024" alt="ChatGPT Image Dec 24, 2025, 01_35_56 AM" src="https://github.com/user-attachments/assets/c515037a-2bd4-45e0-b323-876b0e816d4c" />
 
 ## License
 
